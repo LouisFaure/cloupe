@@ -9,9 +9,6 @@ import logging
 import os
 import struct
 
-# Set the logging level and message format
-logging.basicConfig(level=logging.DEBUG, format="[%(asctime)s][%(levelname)s] %(message)s")
-
 
 class Cloupe(object):
     """
